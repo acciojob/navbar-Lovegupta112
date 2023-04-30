@@ -18,11 +18,12 @@ nav ul {
 nav ul li{
 	padding:18px 27px;
 	border-left:2px solid white;
+	cursor:pointer;
 }
 
 #team{
 	border-left-style:none;
-	cursor:pointer;
+	
 	}
 nav ul li:hover{
 background-color:#b90e4d;
