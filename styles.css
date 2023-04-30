@@ -22,7 +22,8 @@ nav ul li{
 
 #team{
 	border-left-style:none;
-}
+	cursor:pointer;
+	}
 nav ul li:hover{
 background-color:#b90e4d;
 	cursor:pointer;
